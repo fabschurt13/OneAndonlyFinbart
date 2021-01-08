@@ -1,4 +1,6 @@
 # discord-bot-barebones
 
-npm i
-update stuff in ./configs
+npm i<br>
+update stuff in ./configs<br>
+node deployCommands.js<br>
+node index.js
