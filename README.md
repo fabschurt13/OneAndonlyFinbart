@@ -1,4 +1,4 @@
-# discord-bot-barebones
+# Basic discord bot template
 
 npm i<br>
 update stuff in ./configs<br>
